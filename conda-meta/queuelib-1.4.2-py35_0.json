@@ -1,0 +1,38 @@
+{
+  "arch": "x86_64",
+  "build": "py35_0",
+  "build_number": 0,
+  "channel": "https://repo.continuum.io/pkgs/free/win-64",
+  "date": "2015-10-31",
+  "depends": [
+    "python 3.5*"
+  ],
+  "files": [
+    "Lib/site-packages/queuelib-1.4.2-py3.5.egg-info/PKG-INFO",
+    "Lib/site-packages/queuelib-1.4.2-py3.5.egg-info/SOURCES.txt",
+    "Lib/site-packages/queuelib-1.4.2-py3.5.egg-info/dependency_links.txt",
+    "Lib/site-packages/queuelib-1.4.2-py3.5.egg-info/top_level.txt",
+    "Lib/site-packages/queuelib/__init__.py",
+    "Lib/site-packages/queuelib/pqueue.py",
+    "Lib/site-packages/queuelib/queue.py",
+    "Lib/site-packages/queuelib/tests/__init__.py",
+    "Lib/site-packages/queuelib/tests/test_pqueue.py",
+    "Lib/site-packages/queuelib/tests/test_queue.py"
+  ],
+  "fn": "queuelib-1.4.2-py35_0.tar.bz2",
+  "license": "BSD",
+  "link": {
+    "source": "C:\\Users\\Fernando\\Miniconda3\\pkgs\\queuelib-1.4.2-py35_0",
+    "type": "hard-link"
+  },
+  "md5": "c54d9e6524b4582936cb2f0de1c75486",
+  "name": "queuelib",
+  "platform": "win",
+  "priority": 1,
+  "requires": [],
+  "schannel": "defaults",
+  "size": 6549,
+  "subdir": "win-64",
+  "url": "https://repo.continuum.io/pkgs/free/win-64/queuelib-1.4.2-py35_0.tar.bz2",
+  "version": "1.4.2"
+}

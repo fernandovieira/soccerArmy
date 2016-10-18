@@ -1,0 +1,37 @@
+{
+  "arch": "x86_64",
+  "build": "py35_0",
+  "build_number": 0,
+  "channel": "https://repo.continuum.io/pkgs/free/win-64",
+  "date": "2016-07-18",
+  "depends": [
+    "python 3.5*"
+  ],
+  "files": [
+    "Lib/site-packages/cssselect-0.9.2-py3.5.egg-info",
+    "Lib/site-packages/cssselect/__init__.py",
+    "Lib/site-packages/cssselect/__pycache__/__init__.cpython-35.pyc",
+    "Lib/site-packages/cssselect/__pycache__/parser.cpython-35.pyc",
+    "Lib/site-packages/cssselect/__pycache__/tests.cpython-35.pyc",
+    "Lib/site-packages/cssselect/__pycache__/xpath.cpython-35.pyc",
+    "Lib/site-packages/cssselect/parser.py",
+    "Lib/site-packages/cssselect/tests.py",
+    "Lib/site-packages/cssselect/xpath.py"
+  ],
+  "fn": "cssselect-0.9.2-py35_0.tar.bz2",
+  "license": "BSD",
+  "link": {
+    "source": "C:\\Users\\Fernando\\Miniconda3\\pkgs\\cssselect-0.9.2-py35_0",
+    "type": "hard-link"
+  },
+  "md5": "7389f7d0782b1d6c30827932805df9eb",
+  "name": "cssselect",
+  "platform": "win",
+  "priority": 1,
+  "requires": [],
+  "schannel": "defaults",
+  "size": 43897,
+  "subdir": "win-64",
+  "url": "https://repo.continuum.io/pkgs/free/win-64/cssselect-0.9.2-py35_0.tar.bz2",
+  "version": "0.9.2"
+}

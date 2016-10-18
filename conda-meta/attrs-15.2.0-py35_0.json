@@ -1,0 +1,47 @@
+{
+  "arch": "x86_64",
+  "build": "py35_0",
+  "build_number": 0,
+  "channel": "https://repo.continuum.io/pkgs/free/win-64",
+  "date": "2016-02-22",
+  "depends": [
+    "python 3.5*"
+  ],
+  "files": [
+    "Lib/site-packages/attr/__init__.py",
+    "Lib/site-packages/attr/__pycache__/__init__.cpython-35.pyc",
+    "Lib/site-packages/attr/__pycache__/_compat.cpython-35.pyc",
+    "Lib/site-packages/attr/__pycache__/_config.cpython-35.pyc",
+    "Lib/site-packages/attr/__pycache__/_funcs.cpython-35.pyc",
+    "Lib/site-packages/attr/__pycache__/_make.cpython-35.pyc",
+    "Lib/site-packages/attr/__pycache__/filters.cpython-35.pyc",
+    "Lib/site-packages/attr/__pycache__/validators.cpython-35.pyc",
+    "Lib/site-packages/attr/_compat.py",
+    "Lib/site-packages/attr/_config.py",
+    "Lib/site-packages/attr/_funcs.py",
+    "Lib/site-packages/attr/_make.py",
+    "Lib/site-packages/attr/filters.py",
+    "Lib/site-packages/attr/validators.py",
+    "Lib/site-packages/attrs-15.2.0-py3.5.egg-info/PKG-INFO",
+    "Lib/site-packages/attrs-15.2.0-py3.5.egg-info/SOURCES.txt",
+    "Lib/site-packages/attrs-15.2.0-py3.5.egg-info/dependency_links.txt",
+    "Lib/site-packages/attrs-15.2.0-py3.5.egg-info/not-zip-safe",
+    "Lib/site-packages/attrs-15.2.0-py3.5.egg-info/top_level.txt"
+  ],
+  "fn": "attrs-15.2.0-py35_0.tar.bz2",
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\Fernando\\Miniconda3\\pkgs\\attrs-15.2.0-py35_0",
+    "type": "hard-link"
+  },
+  "md5": "adaf2543951a4ebed10eae60958247da",
+  "name": "attrs",
+  "platform": "win",
+  "priority": 1,
+  "requires": [],
+  "schannel": "defaults",
+  "size": 18429,
+  "subdir": "win-64",
+  "url": "https://repo.continuum.io/pkgs/free/win-64/attrs-15.2.0-py35_0.tar.bz2",
+  "version": "15.2.0"
+}

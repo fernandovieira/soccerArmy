@@ -1,0 +1,49 @@
+{
+  "arch": "x86_64",
+  "build": "py35_0",
+  "build_number": 0,
+  "channel": "https://repo.continuum.io/pkgs/free/win-64",
+  "date": "2016-08-14",
+  "depends": [
+    "python 3.5*",
+    "six"
+  ],
+  "files": [
+    "Lib/site-packages/w3lib-1.15.0-py3.5.egg-info/PKG-INFO",
+    "Lib/site-packages/w3lib-1.15.0-py3.5.egg-info/SOURCES.txt",
+    "Lib/site-packages/w3lib-1.15.0-py3.5.egg-info/dependency_links.txt",
+    "Lib/site-packages/w3lib-1.15.0-py3.5.egg-info/not-zip-safe",
+    "Lib/site-packages/w3lib-1.15.0-py3.5.egg-info/requires.txt",
+    "Lib/site-packages/w3lib-1.15.0-py3.5.egg-info/top_level.txt",
+    "Lib/site-packages/w3lib/__init__.py",
+    "Lib/site-packages/w3lib/__pycache__/__init__.cpython-35.pyc",
+    "Lib/site-packages/w3lib/__pycache__/encoding.cpython-35.pyc",
+    "Lib/site-packages/w3lib/__pycache__/form.cpython-35.pyc",
+    "Lib/site-packages/w3lib/__pycache__/html.cpython-35.pyc",
+    "Lib/site-packages/w3lib/__pycache__/http.cpython-35.pyc",
+    "Lib/site-packages/w3lib/__pycache__/url.cpython-35.pyc",
+    "Lib/site-packages/w3lib/__pycache__/util.cpython-35.pyc",
+    "Lib/site-packages/w3lib/encoding.py",
+    "Lib/site-packages/w3lib/form.py",
+    "Lib/site-packages/w3lib/html.py",
+    "Lib/site-packages/w3lib/http.py",
+    "Lib/site-packages/w3lib/url.py",
+    "Lib/site-packages/w3lib/util.py"
+  ],
+  "fn": "w3lib-1.15.0-py35_0.tar.bz2",
+  "license": "BSD",
+  "link": {
+    "source": "C:\\Users\\Fernando\\Miniconda3\\pkgs\\w3lib-1.15.0-py35_0",
+    "type": "hard-link"
+  },
+  "md5": "4ac34fc952e0c81f438206c35f73dd02",
+  "name": "w3lib",
+  "platform": "win",
+  "priority": 1,
+  "requires": [],
+  "schannel": "defaults",
+  "size": 24926,
+  "subdir": "win-64",
+  "url": "https://repo.continuum.io/pkgs/free/win-64/w3lib-1.15.0-py35_0.tar.bz2",
+  "version": "1.15.0"
+}

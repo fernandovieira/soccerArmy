@@ -1,0 +1,41 @@
+{
+  "arch": "x86_64",
+  "build": "py35_0",
+  "build_number": 0,
+  "channel": "https://repo.continuum.io/pkgs/free/win-64",
+  "date": "2016-07-19",
+  "depends": [
+    "python 3.5*"
+  ],
+  "files": [
+    "Lib/site-packages/PyDispatcher-2.0.5-py3.5.egg-info",
+    "Lib/site-packages/pydispatch/__init__.py",
+    "Lib/site-packages/pydispatch/__pycache__/__init__.cpython-35.pyc",
+    "Lib/site-packages/pydispatch/__pycache__/dispatcher.cpython-35.pyc",
+    "Lib/site-packages/pydispatch/__pycache__/errors.cpython-35.pyc",
+    "Lib/site-packages/pydispatch/__pycache__/robust.cpython-35.pyc",
+    "Lib/site-packages/pydispatch/__pycache__/robustapply.cpython-35.pyc",
+    "Lib/site-packages/pydispatch/__pycache__/saferef.cpython-35.pyc",
+    "Lib/site-packages/pydispatch/dispatcher.py",
+    "Lib/site-packages/pydispatch/errors.py",
+    "Lib/site-packages/pydispatch/robust.py",
+    "Lib/site-packages/pydispatch/robustapply.py",
+    "Lib/site-packages/pydispatch/saferef.py"
+  ],
+  "fn": "pydispatcher-2.0.5-py35_0.tar.bz2",
+  "license": "BSD",
+  "link": {
+    "source": "C:\\Users\\Fernando\\Miniconda3\\pkgs\\pydispatcher-2.0.5-py35_0",
+    "type": "hard-link"
+  },
+  "md5": "de4eb798432faa5e88c4316dbb4a6c63",
+  "name": "pydispatcher",
+  "platform": "win",
+  "priority": 1,
+  "requires": [],
+  "schannel": "defaults",
+  "size": 15332,
+  "subdir": "win-64",
+  "url": "https://repo.continuum.io/pkgs/free/win-64/pydispatcher-2.0.5-py35_0.tar.bz2",
+  "version": "2.0.5"
+}

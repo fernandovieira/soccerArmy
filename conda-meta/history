@@ -1,0 +1,30 @@
+==> 2016-10-06 23:32:50 <==
+# cmd: C:\Users\Fernando\Miniconda3\Scripts\conda-script.py create --name soccerArmy scrapy
+attrs-15.2.0-py35_0
+cffi-1.8.3-py35_0
+cryptography-1.5.2-py35_0
+cssselect-0.9.2-py35_0
+idna-2.1-py35_0
+lxml-3.6.4-py35_0
+openssl-1.0.2j-vc14_0
+parsel-1.0.2-py35_0
+pip-8.1.2-py35_0
+pyasn1-0.1.9-py35_0
+pyasn1-modules-0.0.8-py35_0
+pycparser-2.14-py35_1
+pydispatcher-2.0.5-py35_0
+pyopenssl-16.0.0-py35_0
+python-3.5.2-0
+pywin32-220-py35_1
+queuelib-1.4.2-py35_0
+scrapy-1.1.1-py35_0
+service_identity-16.0.0-py35_0
+setuptools-27.2.0-py35_1
+six-1.10.0-py35_0
+twisted-16.4.1-py35_0
+vs2015_runtime-14.0.25123-0
+w3lib-1.15.0-py35_0
+wheel-0.29.0-py35_0
+zope-1.0-py35_0
+zope.interface-4.3.2-py35_0
+# create specs: ['scrapy']
