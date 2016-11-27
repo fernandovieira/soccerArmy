@@ -1,0 +1,25 @@
+{
+  "name": "core",
+  "version": "1.0.0",
+  "description": "Ambiente de APIs classificacao campeonatos",
+  "main": "/standings",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fernandovieira/soccerArmy.git"
+  },
+  "keywords": [
+    "standings"
+  ],
+  "author": "Fernando Vieira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fernandovieira/soccerArmy/issues"
+  },
+  "homepage": "https://github.com/fernandovieira/soccerArmy#readme",
+  "dependencies": {
+    "hapi": "^15.2.0"
+  }
+}

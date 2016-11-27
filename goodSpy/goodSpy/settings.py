@@ -11,7 +11,7 @@
 
 BOT_NAME = 'goodSpy'
 
-SPIDER_MODULES = ['goodSpy.spiders', 'goodSpy.spiders.classificacao']
+SPIDER_MODULES = ['goodSpy.spiders', 'goodSpy.spiders.SpiderClassificacao']
 NEWSPIDER_MODULE = 'goodSpy.spiders'
 
 
@@ -69,10 +69,13 @@ ROBOTSTXT_OBEY = True
 
 # Configure item pipelines
 # See http://scrapy.readthedocs.org/en/latest/topics/item-pipeline.html
+# 'goodSpy.pipelines.GoodspyPipeline': 300,
 ITEM_PIPELINES = {
-    'goodSpy.pipelines.GoodspyPipeline': 300,
+    'goodSpy.MongoPipeline.MongoPipeline': 300
 }
-
+# MongoDB
+MONGO_URI = 'mongodb://localhost:27017'
+MONGO_DATABASE = 'soccer'
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See http://doc.scrapy.org/en/latest/topics/autothrottle.html
 # AUTOTHROTTLE_ENABLED = True

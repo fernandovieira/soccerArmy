@@ -28,3 +28,7 @@ wheel-0.29.0-py35_0
 zope-1.0-py35_0
 zope.interface-4.3.2-py35_0
 # create specs: ['scrapy']
+==> 2016-11-15 21:47:13 <==
+# cmd: C:\Users\Fernando\Miniconda3\Scripts\conda-script.py install -n soccerArmy pymongo
++pymongo-3.3.0-py35_0
+# install specs: ['pymongo', 'python 3.5* (target=python-3.5.2-0.tar.bz2)']

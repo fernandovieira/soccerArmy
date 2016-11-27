@@ -1,2 +1,2 @@
 #!/usr/bin/env bash 
-source C:\Users\Fernando\Miniconda3\Scripts\deactivate "$@"
+source /C/Users/Fernando/Miniconda3/Scripts/deactivate "$@"
