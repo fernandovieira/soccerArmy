@@ -1,0 +1,23 @@
+{
+  "server": {
+    "app": {
+      "slogan": "We push the web forward"
+    }
+  },
+  "connections": [
+    {
+      "port": 80,
+      "labels": ["web-ui"]
+    },
+    {
+      "port": 9000,
+      "labels": ["api"]
+    }
+    ],
+    "registrations": [
+        {
+          "plugin": "./standings"
+        }
+    ]
+
+}
